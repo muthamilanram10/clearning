@@ -1,0 +1,19 @@
+#include<stdio.h>
+void main()
+{
+ int a=2;
+ switch(a)
+{
+ case 1:
+  printf("i'm the king");
+  break;
+ case 2:
+  printf("i'm the star");
+  break;
+ case 3:
+  printf("i'm bad boy");
+  break;
+ default:
+  printf("i'm the default");
+  }
+  }

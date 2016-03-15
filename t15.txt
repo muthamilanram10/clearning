@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main()
+{
+int m =30;n = 40;
+if(m>=40 || n>=40)
+{
+ printf("or is executed");
+}
+if(m>=20 && n>=20)
+{
+ printf("and is executed");
+}
+if( !(m>=40))
+{
+printf("not is executed");
+}
