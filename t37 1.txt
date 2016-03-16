@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main()
+{
+  int n,m;
+printf("Enter m:");
+scanf("%d",&m);
+printf("Enter n: ");
+scanf("%d",&n);
+printf("Entered m: %d\n",m);
+printf("Entered n:%d",n);
+}
