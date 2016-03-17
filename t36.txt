@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+ char *str;
+ printf("enter a string");
+ gets(str);
+ printf("given string is");
+ puts(str);
+ }

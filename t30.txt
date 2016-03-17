@@ -1,0 +1,13 @@
+structure:
+          structure is the collection of variables of different dta types under a single name.
+
+ex:
+    struct sructure_name
+{
+ data_type member1;
+ data_type member2;
+ .
+ .
+ .
+ data_type member n;
+ } 

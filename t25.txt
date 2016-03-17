@@ -1,0 +1,15 @@
+function:
+         a function is a collection of statement that together perform some task.every c program has a atleast one function,which is main() function...
+ex:
+    void main()
+     {
+      ---------;
+      func();
+      ----------;
+       }
+      func()
+       {
+       -------;
+       --------;
+        --------;
+         }
