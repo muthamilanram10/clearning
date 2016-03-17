@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+ int a=10,i;
+ for(i=a;i<=15;i++)
+{
+ a=a+1;
+printf("value of a =%d\n",a);
+break;
+}
+}

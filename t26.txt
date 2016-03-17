@@ -1,0 +1,16 @@
+#include<stdio.h>
+int i=4;
+main()
+{
+i++;
+func();
+printf("value of i =%d\n",i);
+return;
+}
+func()
+{
+ int i=10;
+i++;
+printf("value of i=%d --func() function\n",i);
+return;
+}

@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<string.h>
+struct
+{
+unsigned int height;
+unsigned int weight;
+}status1;
+struct
+{
+unsigned int height :2;
+unsigned int weight :2;
+}status2;
+int main()
+{
+printf("memory size occupied by status1:%d\n",sizeof(status1));
+printf("memory size occupied by status2:%d\n",sizeof(status2));
+return 0;
+}

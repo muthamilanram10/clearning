@@ -1,0 +1,8 @@
+#include,stdio.h>
+void main()
+{
+int i=20;char c;
+int sum;
+sum=i+c;
+printf("value of sum %d",sum);
+}
